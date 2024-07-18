@@ -2,7 +2,7 @@
 # Footflix-LLM
 
 ## Introduction
-This project aims to provide a comprehensive tool for scouting football players and comparing their statistics using data from an Excel file and external APIs.
+a Football LLM , This project aims to provide a comprehensive tool for scouting football players and comparing their statistics using data from an Excel file and external APIs.
 
 ## Project Overview
 The tool fetches player data from an Excel sheet, normalizes player names using a translation table, generates scouting reports using an external API (llama3), fetches live football scores from football-data.org, and compares player statistics using radar charts.
